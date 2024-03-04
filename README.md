@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![Irene's GitHub stats](https://github-readme-stats.vercel.app/api?username=irenelopez30&show_icons=true&theme=transparent)
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=irenelopez30&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Irene's GitHub stats](https://github-readme-stats.vercel.app/api?username=irenelopez30&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
